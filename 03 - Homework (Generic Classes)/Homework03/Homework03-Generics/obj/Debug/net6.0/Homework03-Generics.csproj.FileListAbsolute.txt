@@ -1,0 +1,15 @@
+C:\Users\davri\OneDrive\Documents\SEDC\6. C# Advanced\02 - Homeworks\03 - Homework (Generic Classes)\Homework03\Homework03-Generics\bin\Debug\net6.0\Homework03-Generics.exe
+C:\Users\davri\OneDrive\Documents\SEDC\6. C# Advanced\02 - Homeworks\03 - Homework (Generic Classes)\Homework03\Homework03-Generics\bin\Debug\net6.0\Homework03-Generics.deps.json
+C:\Users\davri\OneDrive\Documents\SEDC\6. C# Advanced\02 - Homeworks\03 - Homework (Generic Classes)\Homework03\Homework03-Generics\bin\Debug\net6.0\Homework03-Generics.runtimeconfig.json
+C:\Users\davri\OneDrive\Documents\SEDC\6. C# Advanced\02 - Homeworks\03 - Homework (Generic Classes)\Homework03\Homework03-Generics\bin\Debug\net6.0\Homework03-Generics.dll
+C:\Users\davri\OneDrive\Documents\SEDC\6. C# Advanced\02 - Homeworks\03 - Homework (Generic Classes)\Homework03\Homework03-Generics\bin\Debug\net6.0\Homework03-Generics.pdb
+C:\Users\davri\OneDrive\Documents\SEDC\6. C# Advanced\02 - Homeworks\03 - Homework (Generic Classes)\Homework03\Homework03-Generics\obj\Debug\net6.0\Homework03-Generics.csproj.AssemblyReference.cache
+C:\Users\davri\OneDrive\Documents\SEDC\6. C# Advanced\02 - Homeworks\03 - Homework (Generic Classes)\Homework03\Homework03-Generics\obj\Debug\net6.0\Homework03-Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davri\OneDrive\Documents\SEDC\6. C# Advanced\02 - Homeworks\03 - Homework (Generic Classes)\Homework03\Homework03-Generics\obj\Debug\net6.0\Homework03-Generics.AssemblyInfoInputs.cache
+C:\Users\davri\OneDrive\Documents\SEDC\6. C# Advanced\02 - Homeworks\03 - Homework (Generic Classes)\Homework03\Homework03-Generics\obj\Debug\net6.0\Homework03-Generics.AssemblyInfo.cs
+C:\Users\davri\OneDrive\Documents\SEDC\6. C# Advanced\02 - Homeworks\03 - Homework (Generic Classes)\Homework03\Homework03-Generics\obj\Debug\net6.0\Homework03-Generics.csproj.CoreCompileInputs.cache
+C:\Users\davri\OneDrive\Documents\SEDC\6. C# Advanced\02 - Homeworks\03 - Homework (Generic Classes)\Homework03\Homework03-Generics\obj\Debug\net6.0\Homework03-Generics.dll
+C:\Users\davri\OneDrive\Documents\SEDC\6. C# Advanced\02 - Homeworks\03 - Homework (Generic Classes)\Homework03\Homework03-Generics\obj\Debug\net6.0\refint\Homework03-Generics.dll
+C:\Users\davri\OneDrive\Documents\SEDC\6. C# Advanced\02 - Homeworks\03 - Homework (Generic Classes)\Homework03\Homework03-Generics\obj\Debug\net6.0\Homework03-Generics.pdb
+C:\Users\davri\OneDrive\Documents\SEDC\6. C# Advanced\02 - Homeworks\03 - Homework (Generic Classes)\Homework03\Homework03-Generics\obj\Debug\net6.0\Homework03-Generics.genruntimeconfig.cache
+C:\Users\davri\OneDrive\Documents\SEDC\6. C# Advanced\02 - Homeworks\03 - Homework (Generic Classes)\Homework03\Homework03-Generics\obj\Debug\net6.0\ref\Homework03-Generics.dll
